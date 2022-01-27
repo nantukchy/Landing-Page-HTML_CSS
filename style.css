@@ -189,15 +189,5 @@ button:hover{
     .social-link {
         margin-top: 5px;
     }
-    .col-1::after{
-        content: '';
-        width: 10px;
-        height: 30%;
-        background: #2e835d;
-        position: absolute ;
-        left:-40px;
-        top:8px;
-        z-index: 1;
-    
-    }
+  
 }
